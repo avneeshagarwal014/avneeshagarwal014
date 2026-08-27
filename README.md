@@ -159,23 +159,17 @@ CI/CD
    ↓
 DevOps
 
----
-
 ## 🎯 Career Goal
 
 My goal is to become a skilled **DevOps Engineer** capable of designing, automating, deploying, monitoring, and maintaining **scalable, secure, and reliable cloud infrastructure**.
 
 I am actively looking for opportunities where I can apply my technical knowledge, learn from experienced teams, and grow as a Cloud & DevOps professional.
 
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Avneesh Agarwal](https://www.linkedin.com/in/avneesh-agarwal-7ba3a634a/)
 - 💻 GitHub: [avneeshagarwal014](https://github.com/avneeshagarwal014)
 - 📧 Email: avneeshagarwal014@gmail.com
-
----
 
 ⭐ Thanks for visiting my profile!
 
