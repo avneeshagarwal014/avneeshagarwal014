@@ -136,8 +136,6 @@ Working on an AWS-based image resizing project to understand event-driven cloud 
 - Python
 - Terraform
 
----
-
 ## 📈 My DevOps Learning Journey
 
 Currently focusing on:
